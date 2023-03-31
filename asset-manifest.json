@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lodash-debounce/static/css/main.a102879e.css",
+    "main.js": "/lodash-debounce/static/js/main.584ee61b.js",
+    "index.html": "/lodash-debounce/index.html",
+    "main.a102879e.css.map": "/lodash-debounce/static/css/main.a102879e.css.map",
+    "main.584ee61b.js.map": "/lodash-debounce/static/js/main.584ee61b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.584ee61b.js"
+  ]
+}
